@@ -1,0 +1,4 @@
+#!/bin/bash
+clear
+gcc -o hello.out hello.c || read
+gcc -o shell.out shell.c || read

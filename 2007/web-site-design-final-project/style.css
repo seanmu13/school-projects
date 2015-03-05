@@ -1,0 +1,123 @@
+<!--
+* {
+	margin:0px;
+	padding:0px;
+}
+body {
+	font: bold 11px/1.5em Verdana;
+	text-align: center; /* for IE */
+	margin:0px;
+	background:url("pics/back2.png") repeat-x;
+	color:#FFFFFF;
+	background-color:#3B5973;
+}
+#container {
+	margin: 0px auto;   /* align for good browsers */
+	text-align: left; /* counter the body center */
+	border: 1px solid #000000;
+	width: 800px;
+	/*old back #E3ECF3*/
+	/*another:#006699*/
+}
+img {
+	border:none;
+}
+/*- Menu Tabs 5--------------------------- */
+#tabs5 {
+	font: bold 11px/1.5em Verdana;
+	float:left;
+	width:100%;
+	background-color:#006699;
+	font-size:93%;
+	line-height:normal;	
+}
+#tabs5 ul {
+	margin:0;
+	padding:10px 10px 0 50px;
+	list-style:none;
+}
+#tabs5 li {
+	display:inline;
+	margin:0;
+	padding:0;
+}
+#tabs5 a {
+	float:left;
+	background:url("pics/tableft5.gif") no-repeat left top;
+	margin:0;
+	padding:0 0 0 4px;
+	text-decoration:none;
+}
+#tabs5 a span {
+	float:left;
+	display:block;
+	background:url("pics/tabright5.gif") no-repeat right top;
+	padding:5px 15px 4px 6px;
+	color:#FFF;
+}
+/* Commented Backslash Hack hides rule from IE5-Mac \*/
+#tabs5 a span {
+	float:none;
+}
+/* End IE5-Mac hack */
+#tabs5 a:hover span {
+	color:#FFF;
+}
+#tabs5 a:hover {
+	background-position:0% -42px;
+}
+#tabs5 a:hover span {
+	background-position:100% -42px;
+}
+
+#tabs5 #current a {
+	background-position:0% -42px;
+}
+#tabs5 #current a span {
+	background-position:100% -42px;
+}
+#footer{
+	height:11px;
+	border-top: 1px solid black;
+	text-align:center;
+	font-size:11px;
+	color:#000000;
+	font-variant: small-caps;
+	background:#006699;	
+}
+#left{
+	border-right: 1px solid black;
+	border-top:1px solid black;
+	font: 11px/1.5em Verdana;
+	padding:10px;	
+}
+#rtop{
+	border-bottom: 1px solid black;
+	background:#006699;
+	border-bottom:1px solid black;
+	padding:10px;				
+}
+#rbottom{
+	background:#006699;	
+	padding:10px;
+	font: 11px/1.5em Verdana;			
+}
+#right{
+	border-top:1px solid black;
+	padding:10px;			
+}
+#logo{
+	background:#006699;
+}
+hr{
+	margin:8px;
+}
+a {
+	color:#FFFFFF;
+}
+table{
+	font: 11px/1.5em Verdana;	
+	width:800px;
+	background:#006699;
+}
+-->	

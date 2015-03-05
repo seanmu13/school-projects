@@ -1,0 +1,5 @@
+0|Fred|fred|1
+0|Thelma|thelma|1
+0|Scoob|scoob|1
+0|Joe|joe|0
+0|Bob|bob|0

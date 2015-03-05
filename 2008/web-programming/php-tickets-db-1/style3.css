@@ -1,0 +1,61 @@
+* {
+	margin:0 0px;
+	padding:0px;
+}
+
+body
+{
+	background-image: url('back.png');
+	background-repeat: repeat-x;
+	font-family: "Tahoma","Comic Sans MS","Trebuchet MS",Verdana,Arial,sans-serif;
+	font-size: 11px;
+	text-align:center;
+}
+
+center {
+	width: 800px;
+	height: auto;
+	margin:0 auto;
+	padding:20px;
+	text-align: center;
+	position: relative;
+	border-width: 1px 1px 1px 1px;
+	border-style: dotted dotted dotted dotted;
+	border-color: gray gray gray gray;
+}
+
+table
+{
+	text-align: center;
+	margin-left:auto; margin-right:auto;
+	font-family: "Tahoma","Comic Sans MS","Trebuchet MS",Verdana,Arial,sans-serif;
+	font-size: 12px;
+	border-width: 1px 1px 1px 1px;
+	border-spacing: 3px;
+	border-style: dotted dotted dotted dotted;
+	border-color: gray gray gray gray;
+	border-collapse: collapse;
+	background-color: rgb(255, 245, 238);
+}
+
+table th
+{
+	font-family: "Tahoma","Comic Sans MS","Trebuchet MS",Verdana,Arial,sans-serif;
+	font-size: 16px;
+	border-width: 1px 1px 1px 1px;
+	padding: 3px 3px 3px 3px;
+	border-style: dotted dotted dotted dotted;
+	border-color: gray gray gray gray;
+	background-color: rgb(250, 240, 230);
+}
+
+table td
+{
+	font-family: "Tahoma","Comic Sans MS","Trebuchet MS",Verdana,Arial,sans-serif;
+	font-size: 12px;
+	border-width: 1px 1px 1px 1px;
+	padding: 3px 3px 3px 3px;
+	border-style: dotted dotted dotted dotted;
+	border-color: gray gray gray gray;
+	background-color: rgb(250, 240, 230);
+}
